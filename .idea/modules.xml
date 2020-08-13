@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Myanmar 2D&amp;3D Live App.iml" filepath="$PROJECT_DIR$/Myanmar 2D&amp;3D Live App.iml" group="Myanmar 2D&amp;3D Live App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Myanmar 2D&amp;3D Live App/app" />
+    </modules>
+  </component>
+</project>
